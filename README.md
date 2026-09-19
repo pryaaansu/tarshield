@@ -206,5 +206,3 @@ npm install && npm run build
 Personal learning + portfolio project demonstrating the full CTI engineering lifecycle — from raw feed ingestion to a secured, AI-assisted analyst interface with automated enrichment and risk scoring. All data sources are public and used within their terms.
 
 ---
-
-*Built by [Aditya Raj](https://github.com/adityrajtiwary) 
