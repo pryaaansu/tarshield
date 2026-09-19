@@ -22,22 +22,22 @@ Built end-to-end as a hands-on SOC/DevSecOps project: data engineering, backend 
 ## 📸 Screenshots
 
 ### Secure Login (MFA + TLS)
-![Login](docs/login.png)
+![Login](docs/login.png?v=2)
 
 ### Threat Intelligence Dashboard
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard.png?v=2)
 
 ### AI Chatbot — Ask Your Data
-![Chatbot](docs/chatbot.png)
+![Chatbot](docs/chatbot.png?v=2)
 
 ### IOC Explorer + Enrichment Detail
-![IOCs](docs/iocs.png)
+![IOCs](docs/iocs.png?v=2)
 
 ### APT Groups
-![APT Groups](docs/apt.png)
+![APT Groups](docs/apt.png?v=2)
 
 ### Threat Feed
-![Threat Feed](docs/threat-feed.png)
+![Threat Feed](docs/threat-feed.png?v=2)
 
 ---
 
